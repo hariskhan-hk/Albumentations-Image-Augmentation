@@ -25,8 +25,6 @@ You can view and run the code in Google Colab:
 
 Notebook: `Albumentations_Image_Augmentation_Examples.ipynb` 
 
-Dataset: Custom or domain-specific images (e.g., medical, satellite, etc.)
-
 ## Concepts Covered
 
 - Introduction to image augmentation
