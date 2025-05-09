@@ -14,6 +14,8 @@ Unlike traditional libraries, Albumentations is performance-optimized (thanks to
 
 ## Key Features of Albumentations
 
+![Key_Features](./Key_Features.png)
+
 ### 1. Extensive Augmentation Techniques
 
 Albumentations supports a wide range of augmentations, including:
