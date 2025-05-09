@@ -24,6 +24,7 @@ You can view and run the code in Google Colab:
 [Open in Colab](https://colab.research.google.com/drive/1Tvo2aVzPrC5aGTg2KTMReU1tT6_AiClT?usp=sharing)
 
 Notebook: `Albumentations_Image_Augmentation_Examples.ipynb` 
+
 Dataset: Custom or domain-specific images (e.g., medical, satellite, etc.)
 
 ## Concepts Covered
@@ -35,10 +36,11 @@ Dataset: Custom or domain-specific images (e.g., medical, satellite, etc.)
 - Keypoint and bounding box support
 - Augmentation pipeline implementation
 
-Author
+## Author
 
-Muhammad Haris Khan
-LinkedIn: linkedin.com/in/hariskhan-hk
-GitHub: github.com/hariskhan-hk
+Muhammad Haris Khan  
+LinkedIn: [linkedin.com/in/hariskhan-hk](https://www.linkedin.com/in/hariskhan-hk)  
+GitHub: [github.com/hariskhan-hk](https://github.com/hariskhan-hk)
+
 
 If you find this project useful, feel free to star the repository or share it.
