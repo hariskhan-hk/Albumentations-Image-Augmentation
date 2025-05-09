@@ -15,7 +15,7 @@ This project is based on the following article:
 
 [Enhance Your Computer Vision Models with Albumentations](https://www.linkedin.com/pulse/enhance-your-computer-vision-models-albumentations-khan-4n8zf)
 
-If the LinkedIn post is unavailable, a copy of the article is available in article.md.
+If the LinkedIn post is unavailable, a copy of the article is available in `article.md`.
 
 ## Colab Notebook
 
