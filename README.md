@@ -12,6 +12,7 @@ This repository contains a practical guide to using Albumentations, a powerful P
 ## Article
 
 This project is based on the following article:
+
 [Enhance Your Computer Vision Models with Albumentations](https://www.linkedin.com/pulse/enhance-your-computer-vision-models-albumentations-khan-4n8zf)
 
 If the LinkedIn post is unavailable, a copy of the article is available in article.md.
@@ -26,6 +27,7 @@ Notebook: `Albumentations_Image_Augmentation_Examples.ipynb`
 Dataset: Custom or domain-specific images (e.g., medical, satellite, etc.)
 
 ## Concepts Covered
+
 - Introduction to image augmentation
 - Geometric, color, blur/noise effects, and advanced transformations
 - Pixel-level augmentations (elastic and grid distortions)
@@ -34,6 +36,7 @@ Dataset: Custom or domain-specific images (e.g., medical, satellite, etc.)
 - Augmentation pipeline implementation
 
 Author
+
 Muhammad Haris Khan
 LinkedIn: linkedin.com/in/hariskhan-hk
 GitHub: github.com/hariskhan-hk
